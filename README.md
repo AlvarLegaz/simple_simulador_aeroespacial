@@ -12,6 +12,12 @@ El objetivo es ofrecer una herramienta ligera para experimentar con dinámicas b
 - Código modular y fácilmente extensible.
 
 ---
+## Ejecución
+
+pyton .\gui_app_principal.py
+
+## Controles
+
 | Tecla               | Acción                                    |
 | ------------------- | ----------------------------------------- |
 | ⬅️ Flecha izquierda | Reduce *pitch* (cabeceo hacia abajo)      |
@@ -20,7 +26,7 @@ El objetivo es ofrecer una herramienta ligera para experimentar con dinámicas b
 | ⬇️ Flecha abajo     | Reduce porcentaje de empuje               |
 | **X**               | Empuje inmediato al **100%**              |
 | **C**               | Corta empuje (**0%**)                     |
-| **A**               | Activa piloto automático                  |
+| Tick en boton       | Activa piloto automático                  |
 
 
 
